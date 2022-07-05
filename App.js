@@ -25,7 +25,7 @@ function App(){
   }
 
   function reinicia(){
-    setImg(require('./src/biscoito1.jpg'));
+    setImg(require('./src/biscoito1.jpg')); 
     setTextoFrase('');
   }
   
